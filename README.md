@@ -5,11 +5,14 @@
     <img alt="Arif Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/arifsiddikm/">
-    <img alt="Arif Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-   </a>
-   <a target="_blank" href="https://www.facebook.com/arifsiddikm">
-    <img alt="Arif Gmail" src="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white" />
-   </a>
+    <img alt="Arif LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:arifsiddikmuharam@gmail.com">
+    <img alt="Arif Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/arifsiddikm">
+    <img alt="Arif Facebook" src="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
