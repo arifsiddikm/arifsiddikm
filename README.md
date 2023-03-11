@@ -34,7 +34,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=325 src="https://github-readme-stats.vercel.app/api?username=arifsiddikm&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img width=315 src="https://github-readme-stats.vercel.app/api?username=arifsiddikm&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=arifsiddikm&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
