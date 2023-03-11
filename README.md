@@ -2,13 +2,13 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="200px" height="200px"></p>
 <p align="center">
   <a target="_blank" href="https://instagram.com/arifsiddikm">
-    <img alt="Arif Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Arif Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/arifsiddikm/">
-    <img alt="Arif Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Arif Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.facebook.com/arifsiddikm">
-    <img alt="Arif Gmail" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img alt="Arif Gmail" src="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white" />
    </a>
 </p>
 
@@ -16,10 +16,16 @@
 
 <p><h4 align="center">Things i code with</h4></p>
 <p align="center">
+  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 </p>
 
 <p align=center>
